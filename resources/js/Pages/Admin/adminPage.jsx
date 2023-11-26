@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './admin.css'
 import Header from '@/Components/Admin/Header'
-import Sidebar from '@/Components/Admin/SideBar'
+
 import 
 {BsCart3, BsGrid1X2Fill, BsFillArchiveFill, BsFillGrid3X3GapFill, BsPeopleFill, 
   BsListCheck, BsMenuButtonWideFill, BsFillGearFill}
